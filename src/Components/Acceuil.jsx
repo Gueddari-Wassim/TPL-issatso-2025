@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 import cn from '../lib/utils';
 import AboutSection from './AboutSection';
 import DiscoverSection from './DiscoverSection';
-import Map from './map';
+import Map from './Map';
 import Footer from './Footer';
 
 export default function Acceuil() {
