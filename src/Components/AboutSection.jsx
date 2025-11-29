@@ -1,17 +1,14 @@
-import React from 'react'
-
 export default function AboutSection() {
   return (
     <div className='mt-22 mb-22'>
         <h1 className='text-4xl md:text-5xl font-extrabold text-gray-800 text-center'>À propos de TPL ISSATSO</h1>
 
         <div className="flex flex-col md:flex-row items-center justify-between gap-8 px-6 py-12 bg-white">
-          {/* Left side: Logo/Image */}
           <div className="md:w-1/2 flex justify-center md:justify-center">
-            <img src="/logo.png" alt="JCI Hammam Sousse Logo" className="max-w-xs w-full h-auto" />
+            <img src="/logo1.png" alt="JCI Hammam Sousse Logo" className="max-w-xs w-full h-auto" />
           </div>
 
-        {/* Right side: Text */}
+        
         <div className="md:w-1/2 text-center md:text-left">
           <p className="text-gray-800 mb-6 text-lg">
           Créé en 2024,Tunisian Programming Lovers IssatSO est le club de programmation de l’Institut Supérieur des Sciences Appliquées et de Technologie de Sousse.

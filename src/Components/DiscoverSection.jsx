@@ -5,7 +5,7 @@ import { Link } from 'react-router-dom';
 const cards = [
   {
     label: 'Formations',
-    img: '/formation.jpeg',
+    img: '/11.jpg',
     route: '/formation',
   },
   {

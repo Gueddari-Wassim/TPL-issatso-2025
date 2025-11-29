@@ -11,7 +11,7 @@ export default function Acceuil() {
     <section className="w-full h-screen relative">
       {/* Background Image */}
       <img
-        src="/img1.JPG"
+        src="/cc.jpg"
         alt="Background"
         className="absolute inset-0 w-full h-full object-cover z-0"
       />

@@ -30,7 +30,7 @@ export default function NavBar() {
     <div className="container mx-auto px-4 py-5 flex items-center justify-between">
       <Link to="/" className="text-xl font-bold text-primary flex items-center">
         <div className="flex items-center transition-transform duration-300 hover:scale-105 text-white">
-          <img src="/logo.png" alt="Logo" className="w-15 h-15 object-contain" />
+          <img src="/logo1.png" alt="Logo" className="w-15 h-15 object-contain" />
           <p className="pl-2 text-xl font-bold">TPL ISSATSO</p>
         </div>
       </Link>

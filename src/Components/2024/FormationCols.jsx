@@ -8,7 +8,7 @@ const workshops = [
     shortDate: '7 fevrier 2025 ',
     location: 'Bibliothéque ISSAT Sousse',
     description: 'Formation Arduino : C/C++ pour Arduino | LEDs, capteurs, moteurs  ',
-    image: '/aa.jpg',
+    image: '/formation/2024/aa.jpg',
     journee: '• 2 journée',
     certification: 'TPL Certified',
   },
@@ -19,7 +19,7 @@ const workshops = [
     shortDate: '25 decembre 2024',
     location: 'En Ligne',
     description: 'Formation Freelance ',
-    image: '/freelance.jpg',
+    image: '/formation/2024/freelance.jpg',
     journee: '• 2 journée',
     certification: 'TPL Certified',
   },
@@ -31,7 +31,7 @@ const workshops = [
     location: 'Bibliothéque ISSAT Sousse',
     description: 'Formation sur les langages HTML / CSS / JS',
     plus: 'journée 1 :HTML / CSS , journée 2: JS ',
-    image: '/web.jpg',
+    image: '/formation/2024/web.jpg',
     journee: '• 2 journée',
     certification: 'TPL / Gate Training Certified',
   },
@@ -42,7 +42,7 @@ const workshops = [
     shortDate: '06 novembre 2024',
     location: 'Bibliothéque ISSAT Sousse',
     description: 'Formation sur le langage de programmation C',
-    image: '/c.jpg',
+    image: '/formation/2024/c.jpg',
     journee: '• 2 journée',
     certification: 'TPL / Gate Training Certified',
   },
@@ -52,7 +52,7 @@ export default function FormationsCols() {
   return (
     <section className="bg-gray-50 py-16 px-4">
       <h2 className="text-center text-4xl font-bold text-gray-800 mb-14">
-        Nos <span className="text-emerald-700">Ateliers</span> Récents
+        Nos <span className="text-emerald-700">Ateliers</span> 2024/2025
       </h2>
 
       <div className="grid gap-8 sm:grid-cols-2 lg:grid-cols-3 max-w-7xl mx-auto">
